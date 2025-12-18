@@ -1,51 +1,43 @@
-<p align="center">
-  <img src="https://craftzdog.gallerycdn.vsassets.io/extensions/craftzdog/astro-theme/0.1.3/1677416346399/Microsoft.VisualStudio.Services.Icons.Default" width="150" />
-</p>
+# Hi there, I'm Luis Collymoore 👋 
 
-<h1 align="center">Hola, soy [Tu Nombre]</h1>
-<p align="center"><strong>Desarrollador Full-stack / Entusiasta del Diseño / Creador</strong></p>
+### SDET & Backend Developer | .NET Core | Python | Azure DevOps
 
-<p align="center">
-  <em>"Construyendo productos digitales desde la planificación hasta la ejecución."</em>
-</p>
+I am a software engineer focused on building scalable backend solutions and high-level automation frameworks. My goal is to bridge the gap between development and quality through clean code, SOLID principles, and CI/CD best practices.
 
 ---
 
-### 💻 Sobre mí
-Takuya utiliza un estilo de "Bio" muy limpio. Aquí puedes replicarlo:
+### 🛠️ Tech Stack
 
-* **Actualmente:** Enfocado en aprender **[Tecnología, ej: Next.js]**.
-* **Pasión:** Crear interfaces que sean tanto funcionales como hermosas.
-* **Fuera de línea:** Me verás **[Tu hobby, ej: tomando fotos o viajando]**.
-
----
-
-### 🛠️ Stack Tecnológico
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,nodejs,mongodb,figma,vscode" />
-</p>
+- **Languages:** C# (.NET Core), Python, JavaScript, TypeScript, SQL.
+- **Backend:** Entity Framework, Web API, SOLID Principles, Clean Code.
+- **Automation:** Playwright, Selenium WebDriver, Appium (Mobile).
+- **Infrastructure & Tools:** Azure DevOps (CI/CD), Git, Docker, SQL Server.
+- **Methodologies:** Agile (Scrum), SDLC Expert.
 
 ---
 
-### 🚀 Proyectos Destacados
-| Proyecto | Descripción | Stack |
-| :--- | :--- | :--- |
-| **[Nombre 1]** | Una app para gestionar tareas con IA. | React, Node |
-| **[Nombre 2]** | Portfolio personal minimalista. | Next.js, CSS |
+### 📊 Professional Highlights
+
+- **Backend Mindset:** Experience implementing Design Patterns like **Singleton** and **Page Object Model (POM)** to create maintainable and efficient architectures.
+- **Quality at Scale:** Integration of automated test suites into **CI/CD pipelines** using Azure DevOps to ensure zero-day defects.
+- **Hybrid Expertise:** Ability to develop robust backend services while ensuring 100% test coverage and reliability.
 
 ---
 
-### 📊 Actividad en GitHub
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=transparent&hide_border=true&title_color=00d1b2" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&theme=transparent&hide_border=true&title_color=00d1b2" />
-</p>
+### 🌱 Currently Learning
+- Advanced Cloud Architecture (Azure)
+- Go (Golang) for microservices
+- Enhancing my English proficiency at UNA PEC 🇺🇸
 
 ---
 
-### 📫 Conectemos
-<p align="center">
-  <a href="mailto:tu-correo@ejemplo.com">Email</a> • 
-  <a href="https://linkedin.com/in/tu-usuario">LinkedIn</a> • 
-  <a href="https://tu-web.com">Website</a>
-</p>
+### 📫 How to reach me:
+
+- **LinkedIn:** [linkedin.com/in/luis-rafael-collymoore-a77539189](https://www.linkedin.com/in/luis-rafael-collymoore-a77539189)
+- **Email:** lcollymoore@gmail.com
+- **Portfolio/GitHub:** [github.com/Icollym](https://github.com/Icollym)
+
+---
+
+### ⚡ Fun Fact
+I believe that "Quality is not an act, it is a habit". I apply the same rigor to my Manual Testing as I do to my Backend Architecture.
