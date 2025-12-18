@@ -1,38 +1,51 @@
-# ¡Hola! Soy [Tu Nombre] 👋
-
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZzJ4bmR6eHF4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" />
+  <img src="https://craftzdog.gallerycdn.vsassets.io/extensions/craftzdog/astro-theme/0.1.3/1677416346399/Microsoft.VisualStudio.Services.Icons.Default" width="150" />
 </p>
 
-### 🚀 Sobre mí
-- 🔭 Actualmente estoy trabajando en **[Nombre de tu proyecto]**
-- 🌱 Estoy aprendiendo **[Tecnología que estás estudiando, ej: React o Python]**
-- ⚡ Interés especial en **[Un hobby o área técnica, ej: Ciberseguridad o Diseño UI]**
-- 📫 Cómo contactarme: **[Tu LinkedIn o Email]**
+<h1 align="center">Hola, soy [Tu Nombre]</h1>
+<p align="center"><strong>Desarrollador Full-stack / Entusiasta del Diseño / Creador</strong></p>
+
+<p align="center">
+  <em>"Construyendo productos digitales desde la planificación hasta la ejecución."</em>
+</p>
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 💻 Sobre mí
+Takuya utiliza un estilo de "Bio" muy limpio. Aquí puedes replicarlo:
+
+* **Actualmente:** Enfocado en aprender **[Tecnología, ej: Next.js]**.
+* **Pasión:** Crear interfaces que sean tanto funcionales como hermosas.
+* **Fuera de línea:** Me verás **[Tu hobby, ej: tomando fotos o viajando]**.
+
+---
+
+### 🛠️ Stack Tecnológico
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode,python,react" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,nodejs,mongodb,figma,vscode" />
 </p>
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 🚀 Proyectos Destacados
+| Proyecto | Descripción | Stack |
+| :--- | :--- | :--- |
+| **[Nombre 1]** | Una app para gestionar tareas con IA. | React, Node |
+| **[Nombre 2]** | Portfolio personal minimalista. | Next.js, CSS |
+
+---
+
+### 📊 Actividad en GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_DE_GITHUB]&layout=compact&langs_count=7&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=transparent&hide_border=true&title_color=00d1b2" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&theme=transparent&hide_border=true&title_color=00d1b2" />
 </p>
 
 ---
 
-### 🤝 Conectemos
-<p align="left">
-<a href="[TU_LINK_LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="[TU_LINK_TWITTER_O_INSTAGRAM]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-</p>
-
+### 📫 Conectemos
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[TU_USUARIO_DE_GITHUB]&label=Perfil%20Visto&color=0e75b6&style=flat" alt="Vistas" />
+  <a href="mailto:tu-correo@ejemplo.com">Email</a> • 
+  <a href="https://linkedin.com/in/tu-usuario">LinkedIn</a> • 
+  <a href="https://tu-web.com">Website</a>
 </p>
