@@ -2,5 +2,5 @@
 
 This is my new account. I lost the previous one
 
-![YOLO](https://img.shields.io/badge/YOLO-exploit%20everything-111111?style=for-the-badge&logo=linux&logoColor=00ff00)
-![Status](https://img.shields.io/badge/status-root%20access-0f0?style=for-the-badge)
+
+<img width="896" height="1195" alt="pf2" src="https://github.com/user-attachments/assets/cac0e5f2-a5b0-4172-aec1-9931349f54ce" />
